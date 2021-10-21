@@ -7,11 +7,21 @@
 
 ## GitHub Stats
 
-<div algign="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ronick-grammer&show_icons=true&theme=default">
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr border="0" cellspacing="0" cellpadding="0">
+    <td align="center" border="0" cellspacing="0" cellpadding="0"><img src="https://github-readme-stats.vercel.app/api?username=ronick-grammer&show_icons=true&theme=default" alt="Avatar"/><br /></td>
+    <td align="center" border="0" cellspacing="0" cellpadding="0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronick-grammer&layout=compact" alt="Avatar"/><br /></td>
+
+  </tr>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronick-grammer&layout=compact">
-</div>   
+</table>
+
+<!--
+<div width="100%"><img src="https://github-readme-stats.vercel.app/api?username=ronick-grammer&show_icons=true&theme=default"></div>
+
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronick-grammer&layout=compact"></div>
+-->
 
 <br>
 
@@ -68,4 +78,4 @@ Obviously, Instagram clone app with very basic features
   
 <!--
 **ronick-grammer/ronick-grammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
+-->
