@@ -1,8 +1,4 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Ronick&fontSize=90&animation=fadeIn&fontAlignY=35"/>
@@ -13,20 +9,11 @@ td, th {
 ## GitHub Stats
 
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ronick-grammer&show_icons=true&theme=default" alt="Avatar"/><br /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronick-grammer&layout=compact" alt="Avatar"/><br /></td>
+<div align="left">
+<img width="419px" src="https://github-readme-stats.vercel.app/api?username=ronick-grammer&show_icons=true&theme=default">
 
-  </tr>
-  
-</table>
-
-<!--
-<div width="100%"><img src="https://github-readme-stats.vercel.app/api?username=ronick-grammer&show_icons=true&theme=default"></div>
-
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronick-grammer&layout=compact"></div>
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronick-grammer&layout=compact">
+</div>
 
 <br>
 
