@@ -8,10 +8,10 @@
 ## GitHub Stats
 
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr border="0" cellspacing="0" cellpadding="0">
-    <td align="center" border="0" cellspacing="0" cellpadding="0"><img src="https://github-readme-stats.vercel.app/api?username=ronick-grammer&show_icons=true&theme=default" alt="Avatar"/><br /></td>
-    <td align="center" border="0" cellspacing="0" cellpadding="0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronick-grammer&layout=compact" alt="Avatar"/><br /></td>
+<table align="center" style="border:none;">
+  <tr style="border:none;">
+    <td style="border:none;"><img src="https://github-readme-stats.vercel.app/api?username=ronick-grammer&show_icons=true&theme=default" alt="Avatar"/><br /></td>
+    <td style="border:none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronick-grammer&layout=compact" alt="Avatar"/><br /></td>
 
   </tr>
   
