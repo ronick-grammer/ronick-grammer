@@ -55,7 +55,7 @@ Obviously, Instagram clone app with very basic features
 > iOS App, SwiftUI, Firebase
 
 <a href="https://github.com/ronick-grammer/InstagramClone_SwiftUI" align="center">
-  <img src = "https://user-images.githubusercontent.com/73280175/137663714-d39ad47f-6d99-4b53-87b8-341844525112.png" width = "60%">
+  <img src = "https://user-images.githubusercontent.com/73280175/138391594-5d57fa7c-adc1-4c1a-9884-4cb39f2a456a.png" width = "60%">
 </a>
 
 <br><br><br><br>
@@ -65,7 +65,7 @@ Obviously, Instagram clone app with very basic features
 > PC Platform, Unity 3D, Maya 3D
 
 <a href="https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo" align="center">
-  <img src = "https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo/blob/main/thumbnail_animation.gif" width="60%">
+  <img src = "https://user-images.githubusercontent.com/73280175/138389015-373b9fdd-84e0-4de9-9e09-804636d7f160.gif" width="60%">
 </a>  
   
 <!--
