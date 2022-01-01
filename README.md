@@ -38,7 +38,7 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[TDD] TDD Cycle](https://ronick-grammer.github.io/tdd/ios/swift/TDD-TDD-Cycle/)
+- [[TDD] TDD Cycle](https://ronick-grammer.github.io/tdd/ios/swift/TDD-Test-Expressions/)
 - [[TDD] TDD란 무엇인가](https://ronick-grammer.github.io/tdd/ios/swift/TDD-TDD%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
 - [[iOS] GC와 ARC](https://ronick-grammer.github.io/ios/swift/iOS-GC%EC%99%80-ARC/)
 - [[iOS, CoreData] Core Data와 Thread](https://ronick-grammer.github.io/ios/swift/iOS-Core-Data%EC%99%80-Thread/)
