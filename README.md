@@ -38,11 +38,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[TDD] 레거시 문제](https://ronick-grammer.github.io/tdd/ios/swift/TDD-Legacy-Problems/)
 - [[TDD] 네트워크 클라이언트](https://ronick-grammer.github.io/tdd/ios/swift/TDD-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8/)
 - [[TDD] 네트워킹](https://ronick-grammer.github.io/tdd/ios/swift/TDD-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9/)
 - [[TDD] Depedency Injection and Mocks](https://ronick-grammer.github.io/tdd/ios/swift/TDD-Depedency-Injection-and-Mocks/)
 - [[TDD] TDD Expectation](https://ronick-grammer.github.io/tdd/ios/swift/TDD-TDD-Expectation/)
-- [[TDD] TDD Expressions](https://ronick-grammer.github.io/tdd/ios/swift/TDD-TDD-Expressions/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
