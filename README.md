@@ -61,7 +61,7 @@ Search cocktails you want, share your own cocktail recipes
 
 <br><br><br><br>
 
-### [Instagram Clone](https://user-images.githubusercontent.com/73280175/138391594-5d57fa7c-adc1-4c1a-9884-4cb39f2a456a.png)
+### [Instagram Clone](https://github.com/ronick-grammer/InstagramClone_SwiftUI)
 Obviously, Instagram clone app with very basic features 
 > iOS App, SwiftUI, Firebase
 
