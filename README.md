@@ -51,17 +51,17 @@
 
 <br><br>
 
-### Martini
+### [Martini](https://github.com/ronick-grammer/Martini)
 Search cocktails you want, share your own cocktail recipes
 > iOS App, UIKit, Firebase
 
 <a href="https://github.com/ronick-grammer/Martini" align="center">
-<img src="https://user-images.githubusercontent.com/73280175/136690070-03a822a4-2646-48df-b6a4-9c706efd626a.gif" alt="simulator" width="60%">
+  <img src= "https://user-images.githubusercontent.com/73280175/136690070-03a822a4-2646-48df-b6a4-9c706efd626a.gif" alt="simulator" width="60%">
 </a>
 
 <br><br><br><br>
 
-### Instagram Clone
+### [Instagram Clone](https://user-images.githubusercontent.com/73280175/138391594-5d57fa7c-adc1-4c1a-9884-4cb39f2a456a.png)
 Obviously, Instagram clone app with very basic features 
 > iOS App, SwiftUI, Firebase
 
@@ -71,13 +71,13 @@ Obviously, Instagram clone app with very basic features
 
 <br><br><br><br>
 
-### Project Limbo
+### [Project Limbo](https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo)
 3D side scrollig game with interesting story
 > PC Platform, Unity 3D, Maya 3D
 
 <a href="https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo" align="center">
-  <img src = "https://user-images.githubusercontent.com/73280175/138389015-373b9fdd-84e0-4de9-9e09-804636d7f160.gif" width="60%">
-</a>  
+ <img src = "https://user-images.githubusercontent.com/73280175/138389015-373b9fdd-84e0-4de9-9e09-804636d7f160.gif" width = "60%">
+</a>
   
 <!--
 **ronick-grammer/ronick-grammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
