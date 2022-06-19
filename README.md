@@ -38,11 +38,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[iOS] Swift Algorithm](https://ronick-grammer.github.io/ios/wwdc/iOS-Swift-Algorithm/)
+- [[iOS] AR Quick Look, meet Object Capture](https://ronick-grammer.github.io/ios/wwdc/iOS-AR-Quick-Look-meet-Object,-Capture/)
+- [[iOS] Custom experiences with Group Activities](https://ronick-grammer.github.io/ios/wwdc/iOS-custom-experiences-with-Group-Activities/)
 - [[Apollo] Apollo 환결설정](https://ronick-grammer.github.io/graphql/ios/swift/Apollo-Apollo-%ED%99%98%EA%B2%B0%EC%84%A4%EC%A0%95/)
 - [[etc] 코드 리뷰](https://ronick-grammer.github.io/code%20review/ios/swift/etc-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0/)
-- [[TDD] 레거시 문제](https://ronick-grammer.github.io/tdd/ios/swift/TDD-Legacy-Problems/)
-- [[TDD] 네트워크 클라이언트](https://ronick-grammer.github.io/tdd/ios/swift/TDD-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8/)
-- [[TDD] 네트워킹](https://ronick-grammer.github.io/tdd/ios/swift/TDD-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
