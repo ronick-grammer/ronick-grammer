@@ -56,7 +56,7 @@ Search cocktails you want, share your own cocktail recipes
 > iOS App, UIKit, Firebase
 
 <a href="https://github.com/ronick-grammer/Martini" align="center">
-  <img src= "https://user-images.githubusercontent.com/73280175/136690070-03a822a4-2646-48df-b6a4-9c706efd626a.gif" alt="simulator" width="20%">
+  <img src= "https://user-images.githubusercontent.com/73280175/136690070-03a822a4-2646-48df-b6a4-9c706efd626a.gif" alt="simulator" width="40%">
 </a>
 
 <br><br><br><br>
@@ -76,7 +76,7 @@ Obviously, Instagram clone app with very basic features
 > PC Platform, Unity 3D, Maya 3D
 
 <a href="https://github.com/ronick-grammer/PORTFOLIO_GAME_ProjectLimbo" align="center">
- <img src = "https://user-images.githubusercontent.com/73280175/138389015-373b9fdd-84e0-4de9-9e09-804636d7f160.gif" width = "60%">
+ <img src = "https://user-images.githubusercontent.com/73280175/138389015-373b9fdd-84e0-4de9-9e09-804636d7f160.gif" width = "80%">
 </a>
   
 <!--
