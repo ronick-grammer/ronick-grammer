@@ -56,7 +56,7 @@ Search cocktails you want, share your own cocktail recipes
 > iOS App, UIKit, Firebase
 
 <a href="https://github.com/ronick-grammer/Martini" align="center">
-  <img src= "https://user-images.githubusercontent.com/73280175/136690070-03a822a4-2646-48df-b6a4-9c706efd626a.gif" alt="simulator" width="40%">
+  <img src= "https://user-images.githubusercontent.com/73280175/136690070-03a822a4-2646-48df-b6a4-9c706efd626a.gif" alt="simulator" width = "20%">
 </a>
 
 <br><br><br><br>
