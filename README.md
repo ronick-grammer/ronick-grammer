@@ -38,11 +38,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Swift] Struct 사용법](https://ronick-grammer.github.io/swift/Swift-Struct-%EC%82%AC%EC%9A%A9%EB%B2%95/)
+- [[Swift] String은 Subscript로 접근이 안되는 이유](https://ronick-grammer.github.io/swift/Swift-String%EC%9D%80-Subscript%EB%A1%9C-%EC%A0%91%EA%B7%BC%EC%9D%B4-%EC%95%88%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
 - [[Swift] Copy On Write](https://ronick-grammer.github.io/swift/Swift-Copy-On-Write/)
 - [[Swift] Convenience init](https://ronick-grammer.github.io/swift/Swift-Convenience-init/)
-- [[Swift] AnyObject](https://ronick-grammer.github.io/swift/Swift-AnyObject/)
-- [[Swift] Optional](https://ronick-grammer.github.io/swift/Swift-Optional/)
-- [[Swift] class 성능 최적화](https://ronick-grammer.github.io/swift/Swift-class-optimization/)
+- [[Swift] Singleton Pattern](https://ronick-grammer.github.io/swift/Swift-Singleton-Pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
