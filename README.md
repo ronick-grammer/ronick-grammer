@@ -38,11 +38,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[Swift] Struct 사용법](https://ronick-grammer.github.io/swift/Swift-Struct-%EC%82%AC%EC%9A%A9%EB%B2%95/)
-- [[Swift] String은 Subscript로 접근이 안되는 이유](https://ronick-grammer.github.io/swift/Swift-String%EC%9D%80-Subscript%EB%A1%9C-%EC%A0%91%EA%B7%BC%EC%9D%B4-%EC%95%88%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
-- [[Swift] Copy On Write](https://ronick-grammer.github.io/swift/Swift-Copy-On-Write/)
-- [[Swift] Convenience init](https://ronick-grammer.github.io/swift/Swift-Convenience-init/)
+- [[iOS] Group Activities를 활용한 실시간 자료공유](https://ronick-grammer.github.io/ios/wwdc/iOS-Group-Activities%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9E%90%EB%A3%8C%EA%B3%B5%EC%9C%A0/)
+- [[iOS] AR Quick Look을 활용한 증강현실 구현](https://ronick-grammer.github.io/ios/wwdc/iOS-AR-Quick-Look%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%A6%9D%EA%B0%95%ED%98%84%EC%8B%A4-%EA%B5%AC%ED%98%84/)
+- [[Apollo] Apollo 환경설정](https://ronick-grammer.github.io/graphql/ios/swift/Apollo-Apollo-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95/)
 - [[Swift] Singleton Pattern](https://ronick-grammer.github.io/swift/Swift-Singleton-Pattern/)
+- [[Swift] Delegate Pattern](https://ronick-grammer.github.io/swift/Swift-Delegate-Pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
