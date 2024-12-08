@@ -35,6 +35,9 @@
 <br>
 
 ## Latest Blog Posts
+![](https://img.shields.io/badge/medium-informational?style=flat&logo=medium&color=000000)
+![](https://img.shields.io/badge/githubBlog-informational?style=flat&logo=github&logoColor=white&color=181717)
+
 - [Book Review: Good Code, Bad Code](https://medium.com/@ronick_54861/book-review-good-code-bad-code-18ff019a0221)
 - [[iOS] Group Activities를 활용한 실시간 자료공유](https://ronick-grammer.github.io/ios/wwdc/iOS-Group-Activities%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9E%90%EB%A3%8C%EA%B3%B5%EC%9C%A0/)
 - [[iOS] AR Quick Look을 활용한 증강현실 구현](https://ronick-grammer.github.io/ios/wwdc/iOS-AR-Quick-Look%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%A6%9D%EA%B0%95%ED%98%84%EC%8B%A4-%EA%B5%AC%ED%98%84/)
