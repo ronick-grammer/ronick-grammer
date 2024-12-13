@@ -35,7 +35,7 @@
 <br>
 
 ## Latest Blog Posts
-[![](https://img.shields.io/badge/medium-informational?style=flat&logo=medium&color=000000)](https://medium.com/@ronick_54861)
+[![](https://img.shields.io/badge/medium-informational?style=flat&logo=medium&color=000000)](https://medium.com/@glflakcm)
 [![](https://img.shields.io/badge/githubBlog-informational?style=flat&logo=github&logoColor=white&color=181717)](https://ronick-grammer.github.io/)
 
 - [Book Review: Good Code, Bad Code](https://medium.com/@ronick_54861/book-review-good-code-bad-code-18ff019a0221)
