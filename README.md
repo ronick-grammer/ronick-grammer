@@ -5,18 +5,6 @@
 
 </div>
 
-
-## GitHub Stats
-
-
-<div align="left">
-<img width="419px" src="https://github-readme-stats.vercel.app/api?username=ronick-grammer&show_icons=true&theme=default">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronick-grammer&layout=compact">
-</div>
-
-<br>
-
 ## Skills
 
 
