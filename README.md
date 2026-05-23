@@ -5,6 +5,14 @@
 
 </div>
 
+## GitHub Stats
+
+<div align="left">
+<img width="419px" src="https://github-readme-streak-stats.herokuapp.com/?user=ronick-grammer">
+</div>
+
+<br>
+
 ## Skills
 
 
